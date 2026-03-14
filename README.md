@@ -193,5 +193,3 @@ Different ML models are used for prediction.
 | Yield Prediction | Random Forest Regressor |
 
 Models are trained and saved using **Joblib/Pickle**.
-
-Saved model files:
